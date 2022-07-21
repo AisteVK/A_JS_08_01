@@ -1,0 +1,8 @@
+@media(min-width:500px){
+    #Sports{
+    display: inline-block;
+    margin: 40px auto 20px auto;
+    height: auto;
+    width: 40%;
+    }
+}
