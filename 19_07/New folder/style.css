@@ -1,0 +1,15 @@
+
+p {
+    color: rgb(29, 9, 80);
+}
+
+.centered {
+text-align: right;
+}
+
+@media(min-width:400px) {
+
+ a { display: inline;
+    text-align: center;
+}
+}
