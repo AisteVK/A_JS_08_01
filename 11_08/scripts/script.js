@@ -8,6 +8,17 @@ function highlightEntry(){
     }
     }
 
+function highlightEntry2(){
+    let value2 = $("#countryOperation").val();
+       if(value2 == "Select"){
+            $(".col1").show();
+            $(".col2").show();
+        }else{
+            $(".col1").hide();
+            $(".col2").hide();
+        }
+}    
+
 function addColor(){
     const container = document.getElementsByClassName("container")[0];
     const element1 = document.createElement("div");
