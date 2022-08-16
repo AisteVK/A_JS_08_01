@@ -16,7 +16,7 @@ function addColor(){
     container.appendChild(element1);
 }
 
-/*
+
 function addCountry(){
     const container = document.getElementsByClassName("container")[0];
     const element2 = document.createElement("div");
@@ -25,6 +25,5 @@ function addCountry(){
     container.appendChild(element2);
 }
 
-*/ 
 
 // ... notepad
